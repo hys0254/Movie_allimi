@@ -65,10 +65,10 @@ public class CGV_TENET2_MK2 {
 			alarmCnt_ref++;
 
 			// 텔레그램 메시지 전송 부분
-			String Token = "1335220241:AAFZEjjWaYjSKS2BvIlg5BOqB25kAniEUxQ";
-			String chat_id = "-1001360049371";
+			String Token = "토큰 입력";
+			String chat_id = "챗 아이디 입력";
 			// 테스트용 chat_id
-			 //String chat_id = "1174386686";
+			 //String chat_id = "테스트 챗 아이디";
 			String text = "테넷 예매 오픈!(상영표 참조버전)";
 
 			BufferedReader in = null;

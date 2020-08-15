@@ -57,10 +57,10 @@ public class CGV_TENET2 {
 	}
 
 	public static void sendMessage(String text) {
-		String Token = "1335220241:AAFZEjjWaYjSKS2BvIlg5BOqB25kAniEUxQ";
-		 String chat_id = "-1001360049371";
+		String Token = "토큰 입력";
+		 String chat_id = "챗 아이디 입력";
 		// 테스트용 chat_id
-		//String chat_id = "1174386686";
+		//String chat_id = "테스트 챗 아이디";
 
 		BufferedReader in = null;
 
